@@ -1,6 +1,6 @@
 # Education-School-Website
 
-### This is an EGATOR (https://www.youtube.com/@EGATORTUTORIALS/about) video tutorial
+### This is an EGATOR (https://www.youtube.com/@EGATORTUTORIALS) video tutorial
 
 ## LESSON LEARNED
 
@@ -8,3 +8,5 @@
 - Viewport Width(vw)
 - flex container
 - grid
+- align-self
+- place-items(grid)
